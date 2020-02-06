@@ -2,8 +2,8 @@
     "name": "Fitness Tracker",
     "short_name": "Fitness Tracker",
     "icons": [{
-        "src": "assets/icon-128x128.png",
-        "sizes": "128x128",
+        "src": "/icon-512x512.png",
+        "sizes": "512x452",
         "type": "image/png"
     }],
     "theme_color": "#ffffff",

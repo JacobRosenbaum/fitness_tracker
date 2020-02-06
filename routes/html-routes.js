@@ -1,5 +1,5 @@
 var path = require("path");
-var public = require("../public");
+// var public = require("../public");
 
 module.exports = function(app) {
     // Load index page
